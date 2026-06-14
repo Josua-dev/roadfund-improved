@@ -5,7 +5,7 @@ A full-stack, production-grade government web platform built with **React + Vite
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Layer       | Technology |
 |-------------|------------|
@@ -84,7 +84,7 @@ npm run dev
 
 ✅ You should see:
 ```
-🚀 Road Fund API running on http://localhost:5000
+ Road Fund API running on http://localhost:5000
 ✅ MySQL connected successfully via XAMPP
 ```
 
@@ -113,7 +113,7 @@ Navigate to **http://localhost:5173** in your browser.
 
 ---
 
-## 🔐 Demo Login Credentials
+##  Demo Login Credentials
 
 All accounts use password: **`Password123!`**
 
@@ -128,7 +128,7 @@ All accounts use password: **`Password123!`**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 roadfund/
@@ -208,7 +208,7 @@ roadfund/
 
 ---
 
-## 🗄️ Database Tables
+##  Database Tables
 
 | Table               | Purpose |
 |---------------------|---------|
@@ -224,7 +224,7 @@ roadfund/
 
 ---
 
-## 🔌 REST API Endpoints
+##  REST API Endpoints
 
 ### Auth
 | Method | Endpoint             | Description |
@@ -266,7 +266,7 @@ roadfund/
 
 ---
 
-## 🎭 User Roles & Permissions
+##  User Roles & Permissions
 
 | Feature                    | Citizen | Inspector | Officer | Admin |
 |----------------------------|:-------:|:---------:|:-------:|:-----:|
@@ -281,7 +281,7 @@ roadfund/
 
 ---
 
-## 🛑 Troubleshooting
+##  Troubleshooting
 
 **MySQL connection failed**
 - Make sure XAMPP MySQL is running (green in XAMPP panel)
@@ -302,7 +302,7 @@ roadfund/
 
 ---
 
-## 🏗️ Running Both Servers
+##  Running Both Servers
 
 Keep **two terminal tabs** open in VS Code:
 
